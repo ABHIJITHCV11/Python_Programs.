@@ -1,5 +1,5 @@
 ### leetcode Python_Programs.
-#### 217. Contains Duplicate is a leetcode problem
+#### 217. Contains Duplicate (a leetcode problem)
 Problem satement
 
 Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
